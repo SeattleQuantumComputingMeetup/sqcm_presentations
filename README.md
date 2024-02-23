@@ -1,3 +1,3 @@
 # Presentations
-This repository hosts the content shared at the quantum meetups.
+This repository hosts the content shared at the SQCM meetups.
 
